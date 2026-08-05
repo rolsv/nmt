@@ -1,0 +1,4 @@
+playwright
+python-telegram-bot>=21,<22
+telethon
+requests
